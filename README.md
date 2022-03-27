@@ -4,8 +4,8 @@
 Live Preview :\
 https://blogs-iblog.netlify.app/
  
- <h4> Overview</h4>
- <p>Responsive Blog Template From Scratch</p>
+ <h3> Overview:</h3>
+ <li>Responsive Blog Template From Scratch</li>
 
  
 ## 🛠 Skills Used
